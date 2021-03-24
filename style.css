@@ -1,1 +1,50 @@
+.header{
+  color:white;
+  background-color:#2D5F7C;
+}
 
+.word{
+  font-size:50px;
+  font-family:times;
+}
+
+.wordtype{
+  color:#2D5F7C;
+  font-size:25px;
+}
+
+.pronunciation{
+  color:#2D5F7C;
+  font-style:italic;
+}
+
+.definition{
+  font-weight:bold;
+}
+
+.sentence{
+  color:#2D5F7C;;
+  font-weight:bold;
+}
+
+.footnote{
+  font-style:italic;
+}
+
+.disclaimer{
+  font-size:small;
+}
+
+.first-use{
+  font-weight:bold;
+}
+
+.cite{
+  font-weight:bold;
+}
+
+.footer{
+  color:white;
+  background-color:#2D5F7C;
+  font-size:small;
+}
